@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ロック御中",
+  "base_artist": "青木陽菜",
+  "createdAt": "2026-02-21T08:45:42.630683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロック御中",
+      "artist": "青木陽菜",
+      "has_synced": true,
+      "path": "select/01_ロック御中_青木陽菜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロック御中",
+      "artist": "青木陽菜",
+      "has_synced": false,
+      "path": "select/pl_01_ロック御中_青木陽菜.txt"
+    }
+  ]
+}
